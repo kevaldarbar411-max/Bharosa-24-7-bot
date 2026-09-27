@@ -1,9 +1,9 @@
 {
-  "name": "AFK Bot",
+  "name": "bharosaafk",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Bharosa0Smp.aternos.me",
